@@ -1,6 +1,6 @@
-# flutter_blue_devices
+# flutter_blue_devices BLE
 
-find  bluetooth devices with flutter app
+find  bluetooth devices only BLE with flutter app
 
 ## Getting Started
 
